@@ -5,7 +5,7 @@
 
 Welcome to the **Señales de tráfico DGT mobile application**, developed by Ekaterina Kozlova as an ad-supported app. We understand that reading a privacy policy may not be the most exciting part of your day, but it is crucial for you to understand how we handle your data. This application was developed to provide an efficient service, and we believe that trust is fundamental to our relationship with you.
 
-This Privacy Policy is not just a legal requirement but also a commitment to you. It outlines exactly what information we collect, why we need it to ensure the app functions as intended, and the strict limitations on how we use that information. If you have any questions after reading this policy, or if you just want to say hello, you can always reach us directly at ekzlvapp@gmail.com
+This Privacy Policy is not just a legal requirement but also a commitment to you. It outlines exactly what information we collect, why we need it to ensure the app functions as intended, and the strict limitations on how we use that information. If you have any questions after reading this policy, or if you just want to say hello, you can always reach us directly at ekzlv.app@gmail.com
 
 ## **2. Information Collection and Use**
 
@@ -99,7 +99,7 @@ For users in the **European Economic Area (EEA)**, we rely on **Standard Contrac
 
 Since we do not collect personal data, the rights listed below (such as the right to access, correction, or deletion of data) do not apply to you in relation to the Señales de tráfico DGT app.
 
-However, if you have any concerns or questions regarding the handling of your information, or if you want to inquire about the data practices of third-party services used by the app (such as Google AdMob), please contact us at ekzlvapp@gmail.com
+However, if you have any concerns or questions regarding the handling of your information, or if you want to inquire about the data practices of third-party services used by the app (such as Google AdMob), please contact us at ekzlv.app@gmail.com
 
 ## **12. Changes to This Privacy Policy**
 
@@ -109,4 +109,4 @@ This Privacy Policy is effective as of **February 28, 2026.**
 
 ## **13. Contact Us**
 
-If you have any questions or concerns about this Privacy Policy or wish to exercise your privacy rights, feel free to contact us at ekzlvapp@gmail.com
+If you have any questions or concerns about this Privacy Policy or wish to exercise your privacy rights, feel free to contact us at ekzlv.app@gmail.com
